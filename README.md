@@ -10,7 +10,7 @@ Hello! I’m **Muhammad Asfand Yar**, a passionate Computer Science graduate wit
 
 - **Programming Languages:** Python, C++, JavaScript
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Web Development:** HTML, CSS, JavaScript
+- **Web & API:** Django, HTML, CSS, JavaScript
 - **Software Development:** Data Structures, Algorithms, Object-Oriented Programming
 - **Tools & Platforms:** Git, Unreal Engine, Visual Studio, Jupyter Notebook
 
